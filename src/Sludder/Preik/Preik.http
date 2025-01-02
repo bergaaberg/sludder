@@ -1,0 +1,6 @@
+@Preik_HostAddress = http://localhost:7820
+
+GET {{Preik_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
