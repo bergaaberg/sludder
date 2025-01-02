@@ -400,3 +400,9 @@ FodyWeavers.xsd
 *.sln.iml
 */.idea/*
 */*/.idea/*
+
+# Terraform
+/terraform/
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
